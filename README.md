@@ -14,7 +14,7 @@ I have been coding for the last 3 years, problem-solving is my favorite hobby an
 
 #### What I know:
 
-- Python, Javascript, C, C++, Java, HTML, CSS, Bash, SQL, NoSQl DBs (MongoDb, Firestore), Hugging Face, Langchain
+- Python, Javascript, C, C++, Java, HTML, CSS, React, Bash, SQL, NoSQl DBs (MongoDb, Firestore), Hugging Face, Langchain
 - FastAPI, React, Tailwind, NumPy, Pandas, Pydantic, Google AI SDK
 - GitHub, GitHub Actions, AWS Lambda, AWS Secrets Manager, Jira, Postman, Docker, RabbitMQ
 - Unity, C#, VisualStudio, Game Development
