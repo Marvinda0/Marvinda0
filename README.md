@@ -39,10 +39,10 @@ And a bunch other projects you can find more details about on my github or perso
 <div align="center">
   <a href="https://marvindao.itch.io/libera-me-from-hell" target="_blank">
     <img
-      alt="You can play this game I did back in the day!"
+      alt="Libera me From Hell"
       src=""
     />
   </a>
 </div>
 
-Thanks to @SenseOfHumor for helping me make this profile!
+Thanks to @<a href=https://github.com/SenseOfHumor>SenseOfHumor</a> for helping me make this profile!
