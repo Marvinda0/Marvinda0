@@ -21,7 +21,7 @@ I have been coding for the last 3 years, problem-solving is my favorite hobby an
 
 #### Where does my experience come from
 - `2025` **AI & Software Engineering Intern** @ Boreal Open Systems
-- `2025` Developed <a src=https://turing-restless-eb7b0e041c52.herokuapp.com/>Turing</a> For candidates to improve their Job Application process
+- `2025` Developed <a href=https://turing-restless-eb7b0e041c52.herokuapp.com/>Turing</a> For candidates to improve their Job Application process
 - `2025-present` Building Mindflow, a startup which goal is to improve the way individuals learn enhance by AI, flowcharts and scientific-proofed learning methods
 And a bunch other projects you can find more details about on my github or personal website!
 ##
@@ -35,8 +35,8 @@ And a bunch other projects you can find more details about on my github or perso
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=marvindao&count=1&width=840px" alt="Spotify">
 </div>
+- You can play this game I did back in the day!
 <div align="center">
-  - You can play this game I did back in the day!
   <a href="https://marvindao.itch.io/libera-me-from-hell" target="_blank">
     <img
       alt="You can play this game I did back in the day!"
@@ -44,3 +44,5 @@ And a bunch other projects you can find more details about on my github or perso
     />
   </a>
 </div>
+
+Thanks to @SenseOfHumor for helping me make this profile!
