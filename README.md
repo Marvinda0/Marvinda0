@@ -1,4 +1,4 @@
-<img src="./Banner.png" alt="banner">
+<img src="./Banner.jpg" alt="banner">
 
 
 #### Check out my website: Portfolio website in development for now contact me to this mail <a href="mailto:jesusm.garcialonso@gmail.com" target="_blank" rel="noopener noreferrer">jesusm.garcialonso@gmail.com</a>
