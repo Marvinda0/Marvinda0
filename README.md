@@ -1,7 +1,7 @@
-<img src="./Swap_banner.png" alt="banner">
+<img src="./Banner.png" alt="banner">
 
 
-#### Check out my website: Portfolio website in development
+#### Check out my website: Portfolio website in development for now contact me to this mail <a href="mailto:jesusm.garcialonso@gmail.com" target="_blank" rel="noopener noreferrer">jesusm.garcialonso@gmail.com</a>
 <p align="left">
 <a href="https://www.linkedin.com/in/jes%C3%BAs-miguel-garc%C3%ADa-alonso/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Jesus Garcia" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/Marvindao" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="swa2314" height="30" width="40" /></a>
@@ -35,14 +35,7 @@ And a bunch other projects you can find more details about on my github or perso
 <div align="center">
   <img src="https://spotify-recently-played-readme.vercel.app/api?user=marvindao&count=1&width=840px" alt="Spotify">
 </div>
-- You can play this game I did back in the day!
-<div align="center">
-  <a href="https://marvindao.itch.io/libera-me-from-hell" target="_blank">
-    <img
-      alt="Libera me From Hell"
-      src=""
-    />
-  </a>
-</div>
+- You can play this game I did back in the day <a href="https://marvindao.itch.io/libera-me-from-hell" target="_blank">Here!</a> Make sure to zoom out
+
 
 Thanks to @<a href=https://github.com/SenseOfHumor>SenseOfHumor</a> for helping me make this profile!
